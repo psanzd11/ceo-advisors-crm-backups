@@ -1,15 +1,15 @@
 {
-  "timestamp_utc": "2026-05-21T06:51:43.418174+00:00",
+  "timestamp_utc": "2026-07-20T06:13:00.178658+00:00",
   "project_url": "https://rtusnruywsmbbzejxooi.supabase.co",
   "tables": {
     "consultants": 7,
-    "clients": 0,
-    "companies": 0,
-    "deals": 0,
+    "clients": 55,
+    "companies": 50,
+    "deals": 31,
     "activities": 0,
     "pupilos": 11,
     "activity_log": 3,
     "notifications": 0,
-    "chat_rate_limits": 4
+    "chat_rate_limits": 5
   }
 }
